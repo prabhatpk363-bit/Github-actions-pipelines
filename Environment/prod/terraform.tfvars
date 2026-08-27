@@ -8,6 +8,11 @@ rg2 = {
 name = "dev-rg"
 location = "westus"
 }
+
+rg3 = {
+name = "QA-rg"
+location = "westus"
+}
 }
 
 vnets = {
